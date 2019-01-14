@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UITaskIcon
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 2
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: d7ec7e9ebc2840eb3c03eee5cbada981
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 25
+    hashString: d7ec7e9ebc2840eb3c03eee5cbada981
+    totalSpriteSurfaceArea: 525696
+    packables:
+    - {fileID: 102900000, guid: 4f6be22cc0345c3429c4637789881553, type: 3}
+    packedSpriteRenderDataKeys:
+    - b9aa9a0d8f16f794691adebfe7a68365: 21300000
+    - de06c3d26182c4d4bac5a399db1da1f3: 21300000
+    - bbd3931f1019c644aad4b5b5ea72faf0: 21300000
+    - c925cefab933fb44d9b13a1a60ddb3c5: 21300000
+    - 50edf254cd1e76148883455e7705d95d: 21300000
+    - 84bc26dc44c028e44a52c11450ff6556: 21300000
+    - 2ebcd80e488abce448f52c4db765f45a: 21300000
+    - 47bd7cd9b5133914a8ae551e8fc7f219: 21300000
+    - 39e2392401d49a048b8f8cd47c96d002: 21300000
+    - e264fef23e8e3364585a84363e975c7b: 21300000
+    - fd974526ca508be4b8b81ac285085a86: 21300000
+    - 94b42792465ad8245a10fd10f81c1e26: 21300000
+    - 1939df6e38f4261459a0da812e837711: 21300000
+    - ef5ac6f111073594aa250d19dddebcfe: 21300000
+    - b292ae453c7a8bd47ac7696f07ad78ff: 21300000
+    - d26b09fcf3b164d48a4f88a24b6facfe: 21300000
+    - 497f5745d884a1d449bbe7a2a07c0a76: 21300000
+    - c328f611bd2e7044c97f30d4d307c6f9: 21300000
+    - 169bf52f0de831e47adb7be2a48addf3: 21300000
+    - db62507190e50b64cb646d8f3617f2c8: 21300000
+    - 2c8d2b9064818a5458e3f280ac9a4ed9: 21300000
+    - afd4f3318d752394f82445ca902aa26a: 21300000
+    - b92930c7838e7114193c55ece89682b7: 21300000
+    - 6ccc30d88bdea0148b54773eaf46b1d4: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b9aa9a0d8f16f794691adebfe7a68365, type: 3}
+  - {fileID: 21300000, guid: de06c3d26182c4d4bac5a399db1da1f3, type: 3}
+  - {fileID: 21300000, guid: bbd3931f1019c644aad4b5b5ea72faf0, type: 3}
+  - {fileID: 21300000, guid: c925cefab933fb44d9b13a1a60ddb3c5, type: 3}
+  - {fileID: 21300000, guid: 50edf254cd1e76148883455e7705d95d, type: 3}
+  - {fileID: 21300000, guid: 84bc26dc44c028e44a52c11450ff6556, type: 3}
+  - {fileID: 21300000, guid: 2ebcd80e488abce448f52c4db765f45a, type: 3}
+  - {fileID: 21300000, guid: 47bd7cd9b5133914a8ae551e8fc7f219, type: 3}
+  - {fileID: 21300000, guid: 39e2392401d49a048b8f8cd47c96d002, type: 3}
+  - {fileID: 21300000, guid: e264fef23e8e3364585a84363e975c7b, type: 3}
+  - {fileID: 21300000, guid: fd974526ca508be4b8b81ac285085a86, type: 3}
+  - {fileID: 21300000, guid: 94b42792465ad8245a10fd10f81c1e26, type: 3}
+  - {fileID: 21300000, guid: 1939df6e38f4261459a0da812e837711, type: 3}
+  - {fileID: 21300000, guid: ef5ac6f111073594aa250d19dddebcfe, type: 3}
+  - {fileID: 21300000, guid: b292ae453c7a8bd47ac7696f07ad78ff, type: 3}
+  - {fileID: 21300000, guid: d26b09fcf3b164d48a4f88a24b6facfe, type: 3}
+  - {fileID: 21300000, guid: 497f5745d884a1d449bbe7a2a07c0a76, type: 3}
+  - {fileID: 21300000, guid: c328f611bd2e7044c97f30d4d307c6f9, type: 3}
+  - {fileID: 21300000, guid: 169bf52f0de831e47adb7be2a48addf3, type: 3}
+  - {fileID: 21300000, guid: db62507190e50b64cb646d8f3617f2c8, type: 3}
+  - {fileID: 21300000, guid: 2c8d2b9064818a5458e3f280ac9a4ed9, type: 3}
+  - {fileID: 21300000, guid: afd4f3318d752394f82445ca902aa26a, type: 3}
+  - {fileID: 21300000, guid: b92930c7838e7114193c55ece89682b7, type: 3}
+  - {fileID: 21300000, guid: 6ccc30d88bdea0148b54773eaf46b1d4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_rwjianglitubiaoM2_al
+  - spr_rwjianglitubiaoC15_al
+  - spr_rwjianglitubiaoC4_al
+  - spr_rwjianglitubiaoC13_al
+  - spr_rwjianglitubiaoC3_al
+  - spr_rwjianglitubiaoC18_al
+  - spr_rwjianglitubiaoC9_al
+  - spr_rwjianglitubiaoM1_al
+  - spr_rwjianglitubiaoC14_al
+  - spr_rwjianglitubiaoM4_al
+  - spr_rwjianglitubiaoC11_al
+  - spr_rwjianglitubiaoM3_al
+  - spr_rwjianglitubiaoC6_al
+  - spr_rwjianglitubiaoC12_al
+  - spr_rwjianglitubiaoC2_al
+  - spr_rwjianglitubiaoC10_al
+  - spr_rwjianglitubiaoC19_al
+  - spr_rwjianglitubiaoC16_al
+  - spr_rwjianglitubiaoC7_al
+  - spr_rwjianglitubiaoC20_al
+  - spr_rwjianglitubiaoC5_al
+  - spr_rwjianglitubiaoC8_al
+  - spr_rwjianglitubiaoC1_al
+  - spr_rwjianglitubiaoC17_al
+  m_Tag: UITaskIcon
+  m_IsVariant: 0

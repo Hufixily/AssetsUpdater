@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 111513946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e098147141790ca09658e14c18f07e24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f53a2cacd4c327e30587f3cbb342b18d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Altas/UISingIn.spriteatlas
+Dependencies: []
